@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi, I'm Sattaya Pokkaew 👋
 
-<!--
-**SattayaP32/SattayaP32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering & IoT Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am a Computer Engineering and IoT Systems student from Thailand interested in Software Development, Web Development, and Artificial Intelligence.  
+I enjoy building practical projects with programming, databases, and Machine Learning, and I am currently looking for opportunities to improve my skills through real-world software development experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+
+Programming Languages
+- C
+- Python
+- PHP
+- SQL
+
+Web Development
+- HTML
+- CSS
+- PHP
+
+Machine Learning
+- Linear Regression
+- Data preprocessing and analysis with Python
+- Predictive modeling
+
+Hardware
+- Hardware & Circuit Design
+- Basic IoT Systems
+
+Tools
+- Git & GitHub
+- Microsoft Word
+- Microsoft Excel
+- Canva
+
+🎓 Education(Present)
+
+Rajamangala University of Technology Krungthep  
+Faculty of Engineering  
+Computer Engineering and IoT Systems  
+
+🎯 Career Goal
+
+I am seeking opportunities to learn, improve my software development skills, and apply my knowledge of programming, web development, databases, and AI to real-world projects.
+
+---
+⭐ Thanks for visiting my GitHub profile!
