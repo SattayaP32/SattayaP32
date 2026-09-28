@@ -1,4 +1,4 @@
-# **Hi, I'm Sattaya Pokkaew 👋**
+# **Hi, I'm Sattaya 👋**
 
 ### **Computer Engineering & IoT Student | Aspiring Software Developer**
 
